@@ -1,5 +1,5 @@
-## (ಠ_ಠ) Hi, I'm Will Foster.  Hobo DevOp/Sysadmin/SRE 
-### Please find my [public Github here](https://github.com/sadsfae) as @sadsfae
+# (ಠ_ಠ) Hi, I'm Will Foster.
+## Please find my [public Github here](https://github.com/sadsfae) as @sadsfae
 [![Github](https://img.shields.io/badge/Github-sadsfae-1DC5B8.svg)](https://github.com/sadsfae)
 [![Web](https://img.shields.io/badge/Web-hobo.house-239a3b.svg)](https://hobo.house)
 [![IRC](https://img.shields.io/badge/IRC-%40sadsfae-b533ff.svg)](https://libera.chat)
